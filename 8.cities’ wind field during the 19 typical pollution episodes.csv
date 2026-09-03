@@ -1,0 +1,12 @@
+﻿region,city,city_lon,city_lat,sampling_frame,regional_aggregation
+Wei River Plain,xian,109.1146613,34.22663762,full_year,pooled_city_hours
+Wei River Plain,xianyang,108.3691023,34.83316703,full_year,pooled_city_hours
+Wei River Plain,weinan,109.7540202,35.02017926,full_year,pooled_city_hours
+Wei River Plain,baoji,107.3408647,34.32432247,full_year,pooled_city_hours
+Wei River Plain,tongchuan,108.9850247,35.19796231,full_year,pooled_city_hours
+Fen River Plain,linfen,111.5040375,36.23229297,full_year,pooled_city_hours
+Fen River Plain,lvliang,111.3207678,37.7164142,full_year,pooled_city_hours
+Fen River Plain,jinzhong,113.0816972,37.37135422,full_year,pooled_city_hours
+YC-SMX-LY,yuncheng,111.172729,35.19580889,full_year,pooled_city_hours
+YC-SMX-LY,sanmenxia,110.8028667,34.31565482,full_year,pooled_city_hours
+YC-SMX-LY,luoyang,111.8903106,34.33756944,full_year,pooled_city_hours
